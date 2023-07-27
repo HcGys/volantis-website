@@ -128,15 +128,6 @@
   </url>
   
   <url>
-    <loc>https://inkss.cn/post/5e967ba/</loc>
-    
-    <lastmod>2022-06-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://inkss.cn/post/3717f151/</loc>
     
     <lastmod>2022-05-25</lastmod>
@@ -190,24 +181,6 @@
     <priority>0.6</priority>
   </url>
   
-  <url>
-    <loc>https://inkss.cn/post/8ab78feb/</loc>
-    
-    <lastmod>2020-12-30</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://inkss.cn/post/ff35080b/</loc>
-    
-    <lastmod>2020-09-06</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
 
   <url>
     <loc>https://inkss.cn/</loc>
@@ -239,6 +212,13 @@
   </url>
   
   <url>
+    <loc>https://inkss.cn/tags/Artalk/</loc>
+    <lastmod>2023-07-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://inkss.cn/tags/MeiliSearch/</loc>
     <lastmod>2023-07-27</lastmod>
     <changefreq>weekly</changefreq>
@@ -253,20 +233,6 @@
   </url>
   
   <url>
-    <loc>https://inkss.cn/tags/Artalk/</loc>
-    <lastmod>2023-07-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://inkss.cn/tags/ES6/</loc>
-    <lastmod>2023-07-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://inkss.cn/tags/Angular/</loc>
     <lastmod>2023-07-27</lastmod>
     <changefreq>weekly</changefreq>
@@ -275,13 +241,6 @@
   
   <url>
     <loc>https://inkss.cn/tags/NG-ZORRO/</loc>
-    <lastmod>2023-07-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://inkss.cn/tags/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/</loc>
     <lastmod>2023-07-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -361,13 +320,6 @@
   
   <url>
     <loc>https://inkss.cn/categories/%E5%89%8D%E7%AB%AF/</loc>
-    <lastmod>2023-07-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://inkss.cn/categories/%E5%B0%8F%E7%A8%8B%E5%BA%8F/</loc>
     <lastmod>2023-07-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
