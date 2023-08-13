@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>且听风吟的猫会发光</title>
-  <icon>https://inkss.cn/icon/android-chrome-192x192.png</icon>
+  <icon>https://volantis.listentothewind.cn/icon/android-chrome-192x192.png</icon>
   <subtitle>猫和它的小小窝</subtitle>
-  <link href="https://inkss.cn/atom.xml" rel="self"/>
+  <link href="https://volantis.listentothewind.cn/atom.xml" rel="self"/>
   
-  <link href="https://inkss.cn/"/>
+  <link href="https://volantis.listentothewind.cn/"/>
   <updated>2023-02-03T03:20:00.000Z</updated>
-  <id>https://inkss.cn/</id>
+  <id>https://volantis.listentothewind.cn/</id>
   
   <author>
     <name>且听风吟</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>uBlacklist：拯救你的搜索结果</title>
-    <link href="https://inkss.cn/post/8204c0ab/"/>
-    <id>https://inkss.cn/post/8204c0ab/</id>
+    <link href="https://volantis.listentothewind.cn/post/8204c0ab/"/>
+    <id>https://volantis.listentothewind.cn/post/8204c0ab/</id>
     <published>2022-11-19T07:00:00.000Z</published>
     <updated>2023-02-03T03:20:00.000Z</updated>
     
@@ -30,19 +30,19 @@
     
     
     
-    <category term="教程" scheme="https://inkss.cn/categories/%E6%95%99%E7%A8%8B/"/>
+    <category term="教程" scheme="https://volantis.listentothewind.cn/categories/%E6%95%99%E7%A8%8B/"/>
     
     
-    <category term="浏览器扩展" scheme="https://inkss.cn/tags/%E6%B5%8F%E8%A7%88%E5%99%A8%E6%89%A9%E5%B1%95/"/>
+    <category term="浏览器扩展" scheme="https://volantis.listentothewind.cn/tags/%E6%B5%8F%E8%A7%88%E5%99%A8%E6%89%A9%E5%B1%95/"/>
     
-    <category term="过滤" scheme="https://inkss.cn/tags/%E8%BF%87%E6%BB%A4/"/>
+    <category term="过滤" scheme="https://volantis.listentothewind.cn/tags/%E8%BF%87%E6%BB%A4/"/>
     
   </entry>
   
   <entry>
     <title>评论区表情包放大</title>
-    <link href="https://inkss.cn/post/17e0ee16/"/>
-    <id>https://inkss.cn/post/17e0ee16/</id>
+    <link href="https://volantis.listentothewind.cn/post/17e0ee16/"/>
+    <id>https://volantis.listentothewind.cn/post/17e0ee16/</id>
     <published>2022-10-23T14:00:00.000Z</published>
     <updated>2022-10-24T15:05:00.000Z</updated>
     
@@ -53,17 +53,17 @@
     
     
     
-    <category term="教程" scheme="https://inkss.cn/categories/%E6%95%99%E7%A8%8B/"/>
+    <category term="教程" scheme="https://volantis.listentothewind.cn/categories/%E6%95%99%E7%A8%8B/"/>
     
     
-    <category term="Artalk" scheme="https://inkss.cn/tags/Artalk/"/>
+    <category term="Artalk" scheme="https://volantis.listentothewind.cn/tags/Artalk/"/>
     
   </entry>
   
   <entry>
     <title>使用 MeiliSearch 实现 Hexo 博客搜索</title>
-    <link href="https://inkss.cn/post/19f14ef1/"/>
-    <id>https://inkss.cn/post/19f14ef1/</id>
+    <link href="https://volantis.listentothewind.cn/post/19f14ef1/"/>
+    <id>https://volantis.listentothewind.cn/post/19f14ef1/</id>
     <published>2022-09-02T15:00:00.000Z</published>
     <updated>2022-09-04T04:40:00.000Z</updated>
     
@@ -74,14 +74,14 @@
     
     
     
-    <category term="教程" scheme="https://inkss.cn/categories/%E6%95%99%E7%A8%8B/"/>
+    <category term="教程" scheme="https://volantis.listentothewind.cn/categories/%E6%95%99%E7%A8%8B/"/>
     
     
-    <category term="Hexo" scheme="https://inkss.cn/tags/Hexo/"/>
+    <category term="Hexo" scheme="https://volantis.listentothewind.cn/tags/Hexo/"/>
     
-    <category term="MeiliSearch" scheme="https://inkss.cn/tags/MeiliSearch/"/>
+    <category term="MeiliSearch" scheme="https://volantis.listentothewind.cn/tags/MeiliSearch/"/>
     
-    <category term="宝塔" scheme="https://inkss.cn/tags/%E5%AE%9D%E5%A1%94/"/>
+    <category term="宝塔" scheme="https://volantis.listentothewind.cn/tags/%E5%AE%9D%E5%A1%94/"/>
     
   </entry>
   
