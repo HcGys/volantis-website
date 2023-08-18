@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>且听风吟的猫会发光</title>
+  <title>且听风吟</title>
   <icon>https://volantis.listentothewind.cn/icon/android-chrome-192x192.png</icon>
   <subtitle>猫和它的小小窝</subtitle>
   <link href="https://volantis.listentothewind.cn/atom.xml" rel="self"/>
