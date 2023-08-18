@@ -20,15 +20,6 @@
   </url>
   
   <url>
-    <loc>https://volantis.listentothewind.cn/page/atom/</loc>
-    
-    <lastmod>2023-07-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://volantis.listentothewind.cn/page/cc/</loc>
     
     <lastmod>2023-07-22</lastmod>
@@ -39,6 +30,15 @@
   
   <url>
     <loc>https://volantis.listentothewind.cn/page/cc/license.html</loc>
+    
+    <lastmod>2023-07-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://volantis.listentothewind.cn/page/atom/</loc>
     
     <lastmod>2023-07-22</lastmod>
     
@@ -191,48 +191,6 @@
 
   
   <url>
-    <loc>https://volantis.listentothewind.cn/tags/Hexo/</loc>
-    <lastmod>2023-08-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://volantis.listentothewind.cn/tags/Volantis/</loc>
-    <lastmod>2023-08-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://volantis.listentothewind.cn/tags/%E5%AD%97%E4%BD%93/</loc>
-    <lastmod>2023-08-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://volantis.listentothewind.cn/tags/MeiliSearch/</loc>
-    <lastmod>2023-08-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://volantis.listentothewind.cn/tags/%E5%AE%9D%E5%A1%94/</loc>
-    <lastmod>2023-08-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://volantis.listentothewind.cn/tags/Artalk/</loc>
-    <lastmod>2023-08-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://volantis.listentothewind.cn/tags/Angular/</loc>
     <lastmod>2023-08-18</lastmod>
     <changefreq>weekly</changefreq>
@@ -268,6 +226,20 @@
   </url>
   
   <url>
+    <loc>https://volantis.listentothewind.cn/tags/%E5%AE%9D%E5%A1%94/</loc>
+    <lastmod>2023-08-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://volantis.listentothewind.cn/tags/Hexo/</loc>
+    <lastmod>2023-08-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://volantis.listentothewind.cn/tags/Gitea/</loc>
     <lastmod>2023-08-18</lastmod>
     <changefreq>weekly</changefreq>
@@ -289,6 +261,13 @@
   </url>
   
   <url>
+    <loc>https://volantis.listentothewind.cn/tags/Volantis/</loc>
+    <lastmod>2023-08-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://volantis.listentothewind.cn/tags/%E6%B5%8F%E8%A7%88%E5%99%A8%E6%89%A9%E5%B1%95/</loc>
     <lastmod>2023-08-18</lastmod>
     <changefreq>weekly</changefreq>
@@ -302,10 +281,31 @@
     <priority>0.2</priority>
   </url>
   
+  <url>
+    <loc>https://volantis.listentothewind.cn/tags/%E5%AD%97%E4%BD%93/</loc>
+    <lastmod>2023-08-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://volantis.listentothewind.cn/tags/MeiliSearch/</loc>
+    <lastmod>2023-08-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://volantis.listentothewind.cn/tags/Artalk/</loc>
+    <lastmod>2023-08-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
   
   <url>
-    <loc>https://volantis.listentothewind.cn/categories/%E5%8D%9A%E5%AE%A2/</loc>
+    <loc>https://volantis.listentothewind.cn/categories/%E5%89%8D%E7%AB%AF/</loc>
     <lastmod>2023-08-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -319,7 +319,7 @@
   </url>
   
   <url>
-    <loc>https://volantis.listentothewind.cn/categories/%E5%89%8D%E7%AB%AF/</loc>
+    <loc>https://volantis.listentothewind.cn/categories/%E5%8D%9A%E5%AE%A2/</loc>
     <lastmod>2023-08-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
